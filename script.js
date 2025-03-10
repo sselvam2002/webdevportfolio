@@ -27,4 +27,17 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // --- Navigation Menu ---
+    // --- Navigation Menu for Mobile ---
+    // Get the menu button element by its ID
+    const menuButton = document.getElementById('menu-button');
+    // Get the navigation menu element by its ID (assuming it has an ID of 'menu')
+    const menu = document.getElementById('menu');
+    if (menuButton && menu) {
+        // Add an event listener to the menu button
+        menuButton.addEventListener('click', function() {
+            // Toggle the 'active' class on the menu element
+            menu.classList.toggle('active');
+        });
+    }
+
+});
