@@ -1,0 +1,24 @@
+{
+  "name": "webdevportfolio",
+  "version": "1.0.0",
+  "description": "<header>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sselvam2002/webdevportfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sselvam2002/webdevportfolio/issues"
+  },
+  "homepage": "https://github.com/sselvam2002/webdevportfolio#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "webdevportfolio": "file:"
+  }
+}
