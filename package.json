@@ -8,17 +8,29 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://github.com/sselvam2002/webdevportfolio.git"
+=======
+    "url": "git+https://github.com/xsoder/webdevportfolio.git"
+>>>>>>> 3850158e3e61e76bf5d77f64ccac4d723174ff53
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
+<<<<<<< HEAD
     "url": "https://github.com/sselvam2002/webdevportfolio/issues"
   },
   "homepage": "https://github.com/sselvam2002/webdevportfolio#readme",
   "dependencies": {
     "express": "^5.1.0",
     "webdevportfolio": "file:"
+=======
+    "url": "https://github.com/xsoder/webdevportfolio/issues"
+  },
+  "homepage": "https://github.com/xsoder/webdevportfolio#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+>>>>>>> 3850158e3e61e76bf5d77f64ccac4d723174ff53
   }
 }
